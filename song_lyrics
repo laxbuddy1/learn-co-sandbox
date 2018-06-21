@@ -1,0 +1,13 @@
+def song_lyrics
+puts "Hold up, wait a minute, all good juat a week ago" 
+puts "Crew at my house and we party every week or so" 
+puts "On the radio thats my faveorite song"
+puts "Make me bounce around like I dont know"
+puts "Like I wont be here long"
+puts "Now the thrill is gone"
+puts "Got no patients"
+puts "Cause im not a doctor"
+puts "Girl, why is you lyin" 
+end 
+
+song_lyrics
